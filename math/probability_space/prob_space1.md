@@ -9,7 +9,7 @@ What is the relationship between a probability space and a sigma algebra defined
 
 Provide an intuitive argument or an example 
 
-[Hints Level1](prob_space_br1_h2.md)
+[Hints Level1](prob_space_br1_h1.md)
 
 
 
