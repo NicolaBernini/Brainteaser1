@@ -11,7 +11,7 @@ Q1) What does "risk on" and "risk off" mean ?
 
 Q2) What does Convergence Trade consist of ? 
 
-Provide an Example of Convergece Trading ? 
+Provide an Example of Convergece Trading 
 - What kind of situation is exploited ? 
 - Explain the risk in this strategy 
 
