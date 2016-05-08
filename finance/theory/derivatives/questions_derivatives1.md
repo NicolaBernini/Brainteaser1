@@ -11,7 +11,7 @@ Q1) What is a Future ?
 
 Q2) What is the "basis" ? 
 
-<br/<
+<br/>
 
 Q3) What is Basis Trading and how does it work ? 
 - What kind of principle does it exploit ? 
