@@ -21,3 +21,11 @@ What does "margin call" mean ?
 
 When does "margin call" happens ? 
 
+[Hints](questions_basicterms1_margin1_h1.md)
+
+
+
+
+
+
+
