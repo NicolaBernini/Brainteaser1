@@ -11,5 +11,5 @@ Do the 2 facilities have differences in terms of inherent infrastructure ?
 
 Do they have differences in terms of performance ? 
 
-If so, in which way it is related to the first question 
+If so, in which way it is related to the first question ? 
 
