@@ -17,6 +17,8 @@ Can they be used to solve the same problem ?
 
 Describe advantages of these approaches ? 
 
+[Hint1](questions_mq_vs_sm1_h1.md)
+
 <br/>
 
 Q3) What is a more generic element than Message Queue ? 
