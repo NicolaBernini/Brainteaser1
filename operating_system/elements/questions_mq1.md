@@ -25,5 +25,7 @@ Q3) What is a more generic element than Message Queue ?
 
 Describe differences wrt Message Queues, elements, APIs, ... 
 
+[Hint1](questions_mq_gen1_h1.md)
+
 
 
