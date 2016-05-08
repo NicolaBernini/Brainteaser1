@@ -23,3 +23,9 @@ What the new distance measure should consider in this case ?
 
 Hint: One information more (i.e. something that assuming spherical distribution was not important)
 
+Q5) Why is Mahalanobis distance important ? 
+
+What is its use case ? 
+
+Does this distance reduce to simpler one in certain cases ? 
+
