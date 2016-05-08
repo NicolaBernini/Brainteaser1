@@ -17,6 +17,8 @@ Can they be used to solve the same problem ?
 
 Describe advantages of these approaches ? 
 
+<br/>
+
 Q3) What is a more generic element than Message Queue ? 
 
 Describe differences wrt Message Queues, elements, APIs, ... 
