@@ -15,7 +15,7 @@ What does it change with respect to the previous case ?
 
 Q3) What kind of distance measeure can be defined to perform this estimation, under the assumption of "spherical distribution" ? 
 
-Why is this assumption ? 
+Why is this assumption important ? 
 
 Q4) Provide an example of a case where this assumption does not hold ? 
 
