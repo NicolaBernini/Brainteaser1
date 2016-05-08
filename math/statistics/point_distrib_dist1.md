@@ -9,6 +9,8 @@ Q1) What is the purpose of estimating the probability of a certain point belongi
 
 Hint: Define a distance measeure 
 
+What is a very typical application of this approach ? 
+
 <br/>
 
 Q2) What is the purpose of estimating the probability of a certain point belonging to a certain Set of Sample Points ? 
