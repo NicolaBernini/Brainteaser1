@@ -5,7 +5,7 @@ The Embedded Dev in Multi CPU Scenario Questions and Brainteasers
 
 ## Questions 
 
-[Remoteproc](remoteproc.1md)
+[Remoteproc](remoteproc1.md)
 
 
 
