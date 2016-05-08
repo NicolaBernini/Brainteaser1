@@ -7,7 +7,7 @@ Basic Questions about Message Queues
 
 Q1) How does a Message Queue work ? 
 
-Describe elements it involves, data structures, ... 
+Describe elements it involves, data structures, APIs, ...  
 
 <br/>
 
@@ -16,6 +16,10 @@ Q2) What are similarities and differences between Message Queue and Shared Memor
 Can they be used to solve the same problem ? 
 
 Describe advantages of these approaches ? 
+
+Q3) What is a more generic element than Message Queue ? 
+
+Describe differences wrt Message Queues, elements, APIs, ... 
 
 
 
