@@ -29,3 +29,9 @@ Describe differences wrt Message Queues, elements, APIs, ...
 
 
 
+## Generic Questions 
+
+Q1) Which Design Pattern is at the base of the Message Queue ? 
+
+Q2) In which case is support from the Middleware needed ? 
+
